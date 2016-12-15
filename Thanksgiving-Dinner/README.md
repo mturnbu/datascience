@@ -2,7 +2,7 @@
 
 In this project, I'm analysing the dataset created by fivethirtyeight.com on Thanksgiving Dinner.
 
-The Jupyter notebook is not loading in Github for an unknown reason. It can be viewed in nbviewer - https://github.com/mturnbu/datascience/blob/master/Thanksgiving-Dinner/Thanksgiving-Dinner.ipynb 
+The Jupyter notebook is not loading in Github for an unknown reason. It can be viewed in nbviewer - https://nbviewer.jupyter.org/github/mturnbu/datascience/blob/master/Thanksgiving-Dinner/Thanksgiving-Dinner.ipynb
 
 ##Information about the Data
 
