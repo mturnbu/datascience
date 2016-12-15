@@ -2,6 +2,8 @@
 
 In this project, I'm analysing the dataset created by fivethirtyeight.com on Thanksgiving Dinner.
 
+The Jupyter notebook is not loading in Github for an unknown reason. It can be viewed in nbviewer - https://github.com/mturnbu/datascience/blob/master/Thanksgiving-Dinner/Thanksgiving-Dinner.ipynb 
+
 ##Information about the Data
 
 This directory contains the data behind the story [Here’s What Your Part of America Eats On Thanksgiving](http://fivethirtyeight.com/features/heres-what-your-part-of-america-eats-on-thanksgiving) from fivethirtyeight.com.
